@@ -1,6 +1,6 @@
-# Express + SASS + Babel
+# Express + SASS + Babel+ Eslint
 
-Workflow supporting Express server, Babel (ES6) & SASS (scss).
+Workflow supporting Express server, Babel (ES6), Eslint, SASS (scss).
 
 ### Setup
 
