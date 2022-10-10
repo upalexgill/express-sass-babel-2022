@@ -1,4 +1,4 @@
-# Express + SASS + Babel+ Eslint
+# Express + SASS + Babel + Eslint
 
 Workflow supporting Express server, Babel (ES6), Eslint, SASS (scss).
 
